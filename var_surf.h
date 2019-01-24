@@ -1,0 +1,13 @@
+extern double Rq;
+extern int Na;
+extern double sad_diff;
+extern double surf_total;
+extern double xmax, ymax, sa_tmp, Na_tmp, sad, Ra, Rq;
+extern double xy, sa;
+extern int x_grid_no, y_grid_no;
+extern double *nrmldist, *surface, sim_sad_tmp, sim_sad;
+extern double Ra_tmp, Rq_tmp;
+extern double desired_sad_diff;
+extern int count;
+extern double surface_delta_x, surface_delta_y, **x, **y,**z,**xc,**yc;
+//double r[10];
